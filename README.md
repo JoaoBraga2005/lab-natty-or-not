@@ -20,12 +20,6 @@ chatGPT, Leonard.AI e Google docs
 ## 🧐 Processo de Criação
 chatGPT foi usado para aperfeiçoação do conteúdo desejado, leonard.AI foi usada para criar a capa do ebook e o Google docs para a estruturação no formarto desejado.
 ### 🚀 Resultados
-- [E-book - O futuro das IAs generativas](https://docs.google.com/document/d/1xBsNTwEY_UCsFM5cBpcyTsGdLZ7Pf-1jdQFveE2snKw/edit?usp=sharing)
+
 ```
-
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[O Futuro das Inteligências Artificiais Generativas_ Moldando Novas Fronteiras da Criatividade.pdf](https://github.com/user-attachments/files/15748731/O.Futuro.das.Inteligencias.Artificiais.Generativas_.Moldando.Novas.Fronteiras.da.Criatividade.pdf)
